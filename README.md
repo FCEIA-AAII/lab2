@@ -1,4 +1,4 @@
-# Lab 2 - Experimentación con distintos típos de datasets
+# Lab 2 - Experimentación con distintos tipos de dataset
 ### Lab 2a
 
 [![Lab 2 - a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FCEIA-AAII/lab2/blob/main/lab2a.ipynb)
